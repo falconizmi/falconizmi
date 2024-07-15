@@ -74,7 +74,7 @@
 </div>
 <hr/>
 
-## What I'm collaborate on
+## What I'm collaborating on
 
 <div align="center">
 <a href="https://github.com/teemtee/tmt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=teemtee&repo=tmt&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF"/></a>
