@@ -85,8 +85,8 @@
 ## My statistics
 
 <a> 
-    <a href="https://github.com/falconizmi"><img alt="Kobu's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=falconizmi&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/falconizmi"><img alt="Falconizmi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=falconizmi&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
     <a href="https://github.com/falconizmi">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=falconizmi&theme=radical&border=7F3FBF&background=0D1117" alt="Kobu's GitHub streak"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=falconizmi&theme=radical&border=7F3FBF&background=0D1117" alt="Falconizmi's GitHub streak"/>
     </a>
 </a>
