@@ -3,22 +3,31 @@
 # About me
 <p>
 
-    - Masaryk University student
-    - Studying field programming and development
-    - Working in Red Hat
-    - I use fedora :)
+    - Studied field programming and development at Masaryk University
+    - Working as Associate Software Engineer in Advanced Cluster Management for kubernetes at Red Hat
+    - MY favorite OS is for sure Fedora :D
+    - I am open to learn and chat about the new things in world of IT
+    - If you want to contribute on something together just add me and pm me on discord :D
 </p>
 
-## Familiar technologies
+## Tech Stack
 
 <div align="center">
     <div >
-      <h4> Programming Languages </h4>
+      <h4> Backend development </h4>
       <img align=top src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <img align=top src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
       <img align=top src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
       <img align=top src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />
       <img align=top src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black" />
+      <img align=top src="https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white" />
+      <img align=top src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+    </div>
+    <div >
+      <h4> Devops </h4>
+      <img align=top src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" />
+      <img align=top src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img align=top src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=fff" />
     </div>
     <div >
       <h4> Frontend Development </h4>
@@ -29,36 +38,9 @@
       <img align=top src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white" />
     </div>
     <div >
-      <h4> Backend Development </h4>
-      <img align=top src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-     <!--         <img align=top src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" /> REMOVE_NEXTJS_LEARN-->
-    </div>
-    <div >
-      <h4> AI/ML </h4>
-      <img align=top src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-      <img align=top src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white" />
-    </div>
-    <div >
       <h4> Databases </h4>
       <img align=top src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white" />
       <img align=top src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-    </div>
-    <div >
-      <h4> Devops </h4>
-      <img align=top src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" />
-      <img align=top src="https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white" />
-      <img align=top src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    </div>
-    <div >
-      <h4>Operating systems </h4>
-      <img align=top src="https://img.shields.io/badge/Fedora-51A2DA.svg?style=for-the-badge&logo=Fedora&logoColor=white" />
-      <img align=top src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white" />
-    </div>
-    <div >
-      <h4>Editors </h4>
-      <img align=top src="https://img.shields.io/badge/Vim-019733.svg?style=for-the-badge&logo=Vim&logoColor=white" />
-      <img align=top src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-      <img align=top src="https://img.shields.io/badge/JetBrains-000000.svg?style=for-the-badge&logo=JetBrains&logoColor=white" />
     </div>
   </div>
 
@@ -78,15 +60,16 @@
 
 <div align="center">
 <a href="https://github.com/teemtee/tmt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=teemtee&repo=tmt&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF"/></a>
+<a href="https://github.com/backube/volsync"><img src="https://github-readme-stats.vercel.app/api/pin/?username=backube&repo=volsync&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF"/></a>
 
 </div>
 <hr/>
-
+<!-- 
 ## My statistics
-
 <a> 
     <a href="https://github.com/falconizmi"><img alt="Falconizmi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=falconizmi&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
     <a href="https://github.com/falconizmi">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=falconizmi&theme=radical&border=7F3FBF&background=0D1117" alt="Falconizmi's GitHub streak"/>
     </a>
 </a>
+ -->
